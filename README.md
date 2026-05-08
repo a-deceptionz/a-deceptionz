@@ -1,16 +1,24 @@
-## Hi there 👋
+# Heyyooo, I'm Abbi 👋
 
-<!--
-**a-deceptionz/a-deceptionz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am:
 
-Here are some ideas to get you started:
+🎓 A Cybersecurity & IT Student  
+🔐 An Aspiring Threat Analyst  
+🖥️ Interested in networking, cybersecurity, and tech support  
+⚡ Currently learning CompTIA, system troubleshooting, and security fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- IT Support
+- Cybersecurity Basics
+- Networking
+- Troubleshooting
+- Windows & macOS (learning Linux currently)
+- Virtual Machines
+
+## Currently Working On
+- CompTIA studies
+- Hands-on cybersecurity labs
+- Expanding my GitHub experience
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/abigayle-parsons01
